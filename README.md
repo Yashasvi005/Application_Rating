@@ -6,3 +6,4 @@ packages: pandas , numpy,matplotlib
 initialise matplotlib in line
 importing file that contains data 
 google_data- variable
+BLOG LINK: https://writeeitup.wordpress.com/
